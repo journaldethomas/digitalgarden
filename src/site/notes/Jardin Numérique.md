@@ -5,7 +5,7 @@
 ## 🏡 Mon Jardin Numérique ✅🌀🌐
 
 Vous vous trouvez actuellement sur mon jardin numérique.
-### Mais déjà qu'est-ce qu'un Jardin numérique
+### Mais déjà qu'est-ce qu'un jardin numérique
 
 Un "jardin numérique" est une métaphore utilisée pour décrire un espace virtuel où des informations, des ressources et des contenus sont organisés et cultivés de manière à favoriser la croissance, l'apprentissage et l'interaction.
 
