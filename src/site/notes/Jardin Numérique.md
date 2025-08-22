@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jardin-numerique/","tags":["digitalgarden"]}
+{"dg-publish":true,"permalink":"/jardin-numerique/","tags":["digitalgarden","gardenEntry"]}
 ---
 
 ## 🏡 Mon Jardin Numérique ✅🌀🌐
