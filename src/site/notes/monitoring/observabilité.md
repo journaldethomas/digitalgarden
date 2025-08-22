@@ -10,3 +10,4 @@ L'observabilité et le monitoring sont étroitement liés. 
   
 - L'**observabilité** va au‑delà du monitoring en vous permettant d'inférer l'état interne d'un système en fonction de ses sorties, comme les logs, les métriques et les traces. Elle est proactive et vous permet d'identifier et de gérer les problèmes avant qu'ils n'impactent les utilisateurs.
 
+Dans le monde moderne d'aujourd'hui et des infrastructures complexes, des microservices, du développement et de la publication accélérés des nouveaux logiciels, le monitoring seul peut ne pas suffire.
